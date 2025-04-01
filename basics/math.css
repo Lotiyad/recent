@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: Verdana;
+}
+#mybutton{
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 10px;
+  border: none;
+  color: brown;
+  background-color: gray;
+}
+.mylabl1{
+  font-size: 3em;
+}
